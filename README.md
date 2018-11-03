@@ -6,7 +6,7 @@ Free OXID Tracking module for www.trackingmore.com
 	1. copy content from copy_this folder into your shop root
 	2. activate module tabslTrackingMore in shop admin
 	3. create account and token https://www.trackingmore.com/api-index.html
-	4. add token in [TrackingMore.php] (https://github.com/tabsl/tabslTrackingMore/blob/master/copy_this/modules/tabsl/tabslTrackingMore/core/libs/TrackingMore.php#L22)
+	4. add token in [TrackingMore.php](https://github.com/tabsl/tabslTrackingMore/blob/master/copy_this/modules/tabsl/tabslTrackingMore/core/libs/TrackingMore.php#L22)
 
 
 ## Changelog
